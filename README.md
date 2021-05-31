@@ -8,4 +8,4 @@ script.R contains working code needed to transform, visualize and perform statis
 
 # TODO: Add R markdown report.
 
-## Redistribution of results is warmly welcomed with proper acknowledgement of the author. 
+#### Redistribution of results is warmly welcomed with proper acknowledgement of the author. 
