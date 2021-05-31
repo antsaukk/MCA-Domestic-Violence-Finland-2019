@@ -7,3 +7,5 @@ Multiple_Correspondence_Analysis_of_domestic_violence_in_Finland_2019_.pdf conta
 script.R contains working code needed to transform, visualize and perform statistical analysis of the data. 
 
 # TODO: Add R markdown report.
+
+## Redistribution of results is warmly welcomed with proper acknowledgement of the author. 
