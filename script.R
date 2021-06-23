@@ -236,7 +236,6 @@ plot_bivariate_data(vAge_sSex, "Victim's age", "N.victims")
 summarize_2var_freq(vAge_sSex)
 
 # 2.15 S.sex vs Offence
-{r, fig.align="center", fig.width=6, fig.height=6, fig.cap=""}
 sSex_offence <- create_nvar_freq_table(Y$Number.of.victims, list(Y$Suspect.s.sex, Y$Offence))
 plot_bivariate_data(sSex_offence, "Suspect's sex", "N.victims")
 summarize_2var_freq(sSex_offence)
